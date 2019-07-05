@@ -1,0 +1,10 @@
+{
+  "Parameters" : {
+    
+    "DBName" : "ProdWordPressDB",
+    "DBPassword" : "Kloudadmin1",
+    "DBRootPassword" : "Kloudadmin1",
+    "DBUser" : "ProdDBuser",    
+    "KeyName" : "aclab"
+  }
+}

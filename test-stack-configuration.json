@@ -1,0 +1,9 @@
+{
+  "Parameters" : {
+    "DBName" : "TestWordPressDB",
+    "DBPassword" : "Kloudadmin1",
+    "DBRootPassword" : "Kloudadmin1",
+    "DBUser" : "TestDBuser",    
+    "KeyName" : "aclab"
+  }
+}
